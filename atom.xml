@@ -6,7 +6,7 @@
   <link href="http://xunhuan.online/atom.xml" rel="self"/>
   
   <link href="http://xunhuan.online/"/>
-  <updated>2021-01-05T13:25:29.683Z</updated>
+  <updated>2021-01-09T15:21:56.563Z</updated>
   <id>http://xunhuan.online/</id>
   
   <author>
@@ -17,23 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://xunhuan.online/2021/01/05/hello-world/"/>
-    <id>http://xunhuan.online/2021/01/05/hello-world/</id>
-    <published>2021-01-05T13:25:29.683Z</published>
-    <updated>2021-01-05T13:25:29.683Z</updated>
+    <title>你好呀，世界</title>
+    <link href="http://xunhuan.online/2021/01/09/%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
+    <id>http://xunhuan.online/2021/01/09/%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E4%B8%96%E7%95%8C/</id>
+    <published>2021-01-09T13:03:50.000Z</published>
+    <updated>2021-01-09T15:21:56.563Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;小blog出现前的故事&quot;&gt;&lt;a href=&quot;#小blog出现前的故事&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    
+    <category term="随意的记录" scheme="http://xunhuan.online/tags/%E9%9A%8F%E6%84%8F%E7%9A%84%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
