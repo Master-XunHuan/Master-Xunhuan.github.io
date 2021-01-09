@@ -6,7 +6,7 @@
   <link href="http://xunhuan.online/atom.xml" rel="self"/>
   
   <link href="http://xunhuan.online/"/>
-  <updated>2021-01-09T15:21:56.563Z</updated>
+  <updated>2021-01-09T15:33:46.361Z</updated>
   <id>http://xunhuan.online/</id>
   
   <author>
@@ -21,16 +21,12 @@
     <link href="http://xunhuan.online/2021/01/09/%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
     <id>http://xunhuan.online/2021/01/09/%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E4%B8%96%E7%95%8C/</id>
     <published>2021-01-09T13:03:50.000Z</published>
-    <updated>2021-01-09T15:21:56.563Z</updated>
+    <updated>2021-01-09T15:33:46.361Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;小blog出现前的故事&quot;&gt;&lt;a href=&quot;#小blog出现前的故事&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;h2 id=&quot;小blog出现前的故事&quot;&gt;&lt;a href=&quot;#小blog出现前的故事&quot; class=&quot;headerlink&quot; title=&quot;小blog出现前的故事&quot;&gt;&lt;/a&gt;小blog出现前的故事&lt;/h2&gt;&lt;p&gt;其实吧，去年就想给自己整个blog。&lt;/p&gt;
+&lt;p&gt;但是身为一个菜鸟，需要找教学照着操作，忘记了去年看的教程用的是哪个工具了，总之是需要docker。这个docker吧，他还得开启hyper-v，和android模拟器不兼容。我查到win10 2004似乎有了什么让hyper-v和virtuaBox兼容的特性，却折腾半天没搞起，遂放弃。&lt;/p&gt;
+&lt;p&gt;一直到了今年的假期，发现学习学习不行，成绩成绩不行，考试考试不行，跟分数沾边的事是一点都不干，安贫乐道感觉倒是在心中越变越大，得，那就多研究研究感兴趣的东西吧。挺好的，知之者不如好之者，</summary>
     
     
     
